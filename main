@@ -28,4 +28,19 @@ I then returned to the list of employees and found that the employee with Employ
 Peacock.
 
 Answer to 2c)
-customerID 1 6 17 25 39 44 52 56 63 79 86
+My first step in solving this problem was determining the CustomerIDs of every customer from Germany. I searched the Customers bank where Country = "Germany" and found that there
+were 11 results. The CustomerIDs of the 11 customers from Germany are: 1 6 17 25 39 44 52 56 63 79 86.
+Now that I had the CustomerIDs, I searched through all the orders based on these CustomerIDs to determine what the ProductIDs were for each order. The results are shown below:
+
+CustomerID    # of Orders   OrderID(s)
+  1                 0           N/A
+  6                 0           N/A
+  17                2           10363, 10391
+  25                4           10267, 10337, 10342, 10396
+  39                2           10323, 10325
+  44                3           10279, 10284, 10343
+  52                1           10277
+  56                1           10407
+  63                7           10273, 10285, 10286, 10313, 10345, 10361, 10418
+  79                1           10438
+  86                4           10301, 10312, 10348, 10356
