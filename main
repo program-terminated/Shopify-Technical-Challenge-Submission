@@ -1,0 +1,14 @@
+Question 1.
+
+Answer to 1a)
+The naive calculation of an average order value of $3145.13 was obtained by dividing the total amount of money made from the sales based on the number of sales made.
+This figure is so high because there are a select few orders that cost a significant more amount than all the others. Namely, multiple orders of $704,000 to shop 42. These orders
+are bringing the average order value up much higher than one would expect.
+
+Answer to 1b)
+The metric I would use for this dataset would be average sneaker value. That is, the average amount of money spent on a single pair of sneakers.
+
+Answer to 1c)
+I would calculate average sneaker value (ASV) by first summing all of the money made from all the orders. Doing this, I get a total of $15,725,640 made from all 5000 orders. Now,
+rather than divide this figure by the number of orders, I sum the total number of sneaker pairs sold. The result I get is that 43,936 pairs of sneakers were sold. Dividing the
+total amount of money made by the number of sneaker pairs sold, we get an answer of $357.92 per sneaker pair.
