@@ -18,7 +18,7 @@ Dividing the total amount of money made by the number of sneaker pairs sold, we 
 Question 2.
 
 Answer to 2a)
-To answer this question, I first found that Speedy Express have a ShipperID of 1. I then searched for all orders where the ShipperID was 1 and got 54 results. Thus, 
+To answer this question, I first found that Speedy Express has a ShipperID of 1. I then searched for all orders where the ShipperID was 1 and got 54 results. Thus, 
 Speedy Express shipped a total of 54 orders.
 
 Answer to 2b)
